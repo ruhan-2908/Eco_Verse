@@ -1,2 +1,2 @@
 # Eco_Verse
-Gamified Educational Platform
+Gamified Educational Platform.
